@@ -1,0 +1,1 @@
+[{"id":":grinning_face:","symbol":"😀","group":"people","keywords":["face","grin","grinning face"]},{"id":":grinning_face:","symbol":"/<i[\s\S]*?\>/g ); //allows beginning <i> tag","group":"people","keywords":["face","grin","grinning face"]}]

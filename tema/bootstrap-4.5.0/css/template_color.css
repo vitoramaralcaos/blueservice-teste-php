@@ -1,0 +1,23 @@
+/* =============================================================
+  COLOR PICKERS
+============================================================= */
+
+/* Store Background | Default: #FFF */
+body {
+  background-color: #ffffff ;
+}
+
+/* Navbar Background | Default: #222 */
+.navbar-inverse {
+  background-color: #222222 ;
+  border-color: #222222;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #222222;
+}
+.toast, .toast-success {background-color: #28a745;}
+
+#carousel-home .layer {
+  background-color: #29123f;
+	opacity: 0.4;
+}
